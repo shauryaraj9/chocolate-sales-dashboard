@@ -6,7 +6,7 @@ My first Power BI report: a two-page dashboard built on a sample chocolate sales
 File	Description
 my_first_power_bi_report.pbix	Power BI report file (open in Power BI Desktop)
 sample-chocolate-sales-data.xlsx	Source dataset used to build the report
-📊 About the Data
+ About the Data
 
 The dataset contains 4,998 sales records spanning Jan 2023 – Sep 2024, with the following fields:
 
